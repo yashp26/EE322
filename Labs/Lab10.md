@@ -2,6 +2,8 @@
 
 ### Block Mine
 ![image](../Images/Lab10/hash1.png)
+
+
 ![image](../Images/Lab10/hash2.png)
 
 
