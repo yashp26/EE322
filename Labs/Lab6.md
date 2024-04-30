@@ -2,11 +2,11 @@
 
 
 ### node hello-world.js
-![image](../Images/Lab06/Lab06_11.png)
-![image](../Images/Lab06/Lab06_12.png)
+![image](../Images/Lab06/lab06_11.png)
+![image](../Images/Lab06/lab06_12.png)
 
 ### node hello.js
-![image](../Images/Lab06/Lab06_2.png)
+![image](../Images/Lab06/lab06_2.png)
 
 
 ### node http.js
