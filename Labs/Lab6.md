@@ -2,8 +2,8 @@
 
 
 ### node hello-world.js
-![image](../Images/Lab06/Lab06_1.1.png)
-![image](../Images/Lab06/Lab06_1.2.png)
+![image](../Images/Lab06/Lab06_11.png)
+![image](../Images/Lab06/Lab06_12.png)
 
 ### node hello.js
 ![image](../Images/Lab06/Lab06_2.png)
